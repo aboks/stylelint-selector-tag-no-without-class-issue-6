@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "stylelint": "^9.10.1",
+    "stylelint-config-standard": "^18.3.0",
+    "stylelint-scss": "^3.20.1",
+    "stylelint-selector-tag-no-without-class": "^2.0.4"
+  }
+}
